@@ -163,3 +163,4 @@ This project is open source and available under the MIT License.
 - Three.js for 3D rendering capabilities
 - OpenAI for DALL-E API
 - Vercel for hosting
+
